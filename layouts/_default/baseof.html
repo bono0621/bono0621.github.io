@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="{{ "/" | relURL }}" class="nav-logo">{{ .Site.Params.author }}</a>
+      <div class="nav-links">
+        <a href="{{ "/" | relURL }}">Home</a>
+        <a href="{{ "about/" | relURL }}">About</a>
+        <a href="{{ "projects/" | relURL }}">Projects</a>
+        <a href="{{ "publications/" | relURL }}">Publications</a>
+        <a href="{{ "skills/" | relURL }}">Skills</a>
+        <a href="{{ "contact/" | relURL }}">Contact</a>
+      </div>
+    </div>
+  </nav>
+  <main class="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="footer">
+    <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
+  </footer>
+</body>
+</html>

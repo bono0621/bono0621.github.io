@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on YOUR NAME — Portfolio</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on YOUR NAME — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[TAG1 — E.g., Python]</title>
+      <link>http://localhost:1313/tags/tag1--e.g.-python/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tag1--e.g.-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[TAG2 — E.g., Telegram]</title>
+      <link>http://localhost:1313/tags/tag2--e.g.-telegram/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tag2--e.g.-telegram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[TAG3 — E.g., RSS]</title>
+      <link>http://localhost:1313/tags/tag3--e.g.-rss/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tag3--e.g.-rss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[TAG1]</title>
+      <link>http://localhost:1313/tags/tag1/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tag1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[TAG2]</title>
+      <link>http://localhost:1313/tags/tag2/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tag2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[FIELD — E.g., Machine Learning]</title>
+      <link>http://localhost:1313/tags/field--e.g.-machine-learning/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/field--e.g.-machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[KEYWORD]</title>
+      <link>http://localhost:1313/tags/keyword/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

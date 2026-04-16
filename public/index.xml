@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on YOUR NAME — Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on YOUR NAME — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[PROJECT NAME — e.g., Telegram News Bot System]</title>
+      <link>http://localhost:1313/projects/project-1/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project-1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;[DESCRIBE WHAT THIS PROJECT DOES IN 2-3 SENTENCES.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;[WHY DID YOU BUILD THIS? WHAT PROBLEM DOES IT SOLVE?]&lt;/p&gt;&#xA;&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[TECHNOLOGY 1 — e.g., Python 3.x]&lt;/li&gt;&#xA;&lt;li&gt;[TECHNOLOGY 2 — e.g., feedparser]&lt;/li&gt;&#xA;&lt;li&gt;[TECHNOLOGY 3 — e.g., Telegram Bot API]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[FEATURE 1]&lt;/li&gt;&#xA;&lt;li&gt;[FEATURE 2]&lt;/li&gt;&#xA;&lt;li&gt;[FEATURE 3]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[GitHub Repository]([REPO URL])&lt;/li&gt;&#xA;&lt;li&gt;[Live Demo]([DEMO URL, if any])&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>[PROJECT NAME]</title>
+      <link>http://localhost:1313/projects/project-2/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project-2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;[DESCRIBE WHAT THIS PROJECT DOES.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;[WHY DID YOU BUILD THIS?]&lt;/p&gt;&#xA;&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[TECHNOLOGY 1]&lt;/li&gt;&#xA;&lt;li&gt;[TECHNOLOGY 2]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[FEATURE 1]&lt;/li&gt;&#xA;&lt;li&gt;[FEATURE 2]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[GitHub Repository]([REPO URL])&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>[PAPER TITLE]</title>
+      <link>http://localhost:1313/publications/paper-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/paper-1/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;&#xA;&lt;p&gt;[AUTHORS]. &amp;ldquo;[PAPER TITLE].&amp;rdquo; &lt;em&gt;[JOURNAL/CONFERENCE NAME]&lt;/em&gt;, vol. [VOL], no. [NO], pp. [PAGES], [YEAR].&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;[PASTE OR WRITE THE ABSTRACT HERE.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[CONTRIBUTION 1]&lt;/li&gt;&#xA;&lt;li&gt;[CONTRIBUTION 2]&lt;/li&gt;&#xA;&lt;li&gt;[CONTRIBUTION 3]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Full Paper (PDF)]([PDF URL])&lt;/li&gt;&#xA;&lt;li&gt;[DOI]([DOI URL])&lt;/li&gt;&#xA;&lt;li&gt;[Presentation Slides]([SLIDES URL, if any])&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;&#xA;&lt;p&gt;[WRITE 2-3 SENTENCES ABOUT YOURSELF — your background, what drives you, your professional identity.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[DEGREE — e.g., M.S. in Computer Science]&lt;/strong&gt;, [UNIVERSITY NAME], [YEAR START]–[YEAR END]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[DEGREE — e.g., B.S. in Electrical Engineering]&lt;/strong&gt;, [UNIVERSITY NAME], [YEAR START]–[YEAR END]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;job-title--companyorganization&#34;&gt;[JOB TITLE] — [COMPANY/ORGANIZATION]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[YEAR START]–[YEAR END or Present]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[RESPONSIBILITY OR ACHIEVEMENT 1]&lt;/li&gt;&#xA;&lt;li&gt;[RESPONSIBILITY OR ACHIEVEMENT 2]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;job-title--companyorganization-1&#34;&gt;[JOB TITLE] — [COMPANY/ORGANIZATION]&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;[YEAR START]–[YEAR END]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[RESPONSIBILITY OR ACHIEVEMENT 1]&lt;/li&gt;&#xA;&lt;li&gt;[RESPONSIBILITY OR ACHIEVEMENT 2]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[INTEREST 1 — e.g., Artificial Intelligence]&lt;/li&gt;&#xA;&lt;li&gt;[INTEREST 2 — e.g., Embedded Systems]&lt;/li&gt;&#xA;&lt;li&gt;[INTEREST 3 — e.g., Data Visualization]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Feel free to reach out.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: [YOUR EMAIL — e.g., hwanii2023@gmail.com]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/bono0621&#34;&gt;github.com/bono0621&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: [YOUR LINKEDIN URL]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;: [YOUR GOOGLE SCHOLAR URL, if any]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;h2 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[LANGUAGE 1 — e.g., Python]&lt;/strong&gt; — [PROFICIENCY &amp;amp; DETAILS — e.g., &amp;ldquo;Primary language. Data analysis, automation, ML.&amp;rdquo;]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[LANGUAGE 2 — e.g., C/C++]&lt;/strong&gt; — [PROFICIENCY &amp;amp; DETAILS]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[LANGUAGE 3 — e.g., JavaScript]&lt;/strong&gt; — [PROFICIENCY &amp;amp; DETAILS]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;frameworks--tools&#34;&gt;Frameworks &amp;amp; Tools&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[TOOL 1 — e.g., PyTorch]&lt;/strong&gt; — [WHAT YOU USE IT FOR]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[TOOL 2 — e.g., Docker]&lt;/strong&gt; — [WHAT YOU USE IT FOR]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[TOOL 3 — e.g., Git]&lt;/strong&gt; — [WHAT YOU USE IT FOR]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;domains--knowledge&#34;&gt;Domains &amp;amp; Knowledge&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;[DOMAIN 1 — e.g., Machine Learning]&lt;/strong&gt; — [BRIEF DESCRIPTION OF YOUR EXPERTISE]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[DOMAIN 2 — e.g., Signal Processing]&lt;/strong&gt; — [BRIEF DESCRIPTION]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;[DOMAIN 3 — e.g., Embedded Systems]&lt;/strong&gt; — [BRIEF DESCRIPTION]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;certifications-optional&#34;&gt;Certifications (Optional)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[CERTIFICATION NAME], [ISSUER], [YEAR]&lt;/li&gt;&#xA;&lt;li&gt;[CERTIFICATION NAME], [ISSUER], [YEAR]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

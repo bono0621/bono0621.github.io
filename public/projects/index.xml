@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on YOUR NAME — Portfolio</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on YOUR NAME — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[PROJECT NAME — e.g., Telegram News Bot System]</title>
+      <link>http://localhost:1313/projects/project-1/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project-1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;[DESCRIBE WHAT THIS PROJECT DOES IN 2-3 SENTENCES.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;[WHY DID YOU BUILD THIS? WHAT PROBLEM DOES IT SOLVE?]&lt;/p&gt;&#xA;&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[TECHNOLOGY 1 — e.g., Python 3.x]&lt;/li&gt;&#xA;&lt;li&gt;[TECHNOLOGY 2 — e.g., feedparser]&lt;/li&gt;&#xA;&lt;li&gt;[TECHNOLOGY 3 — e.g., Telegram Bot API]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[FEATURE 1]&lt;/li&gt;&#xA;&lt;li&gt;[FEATURE 2]&lt;/li&gt;&#xA;&lt;li&gt;[FEATURE 3]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[GitHub Repository]([REPO URL])&lt;/li&gt;&#xA;&lt;li&gt;[Live Demo]([DEMO URL, if any])&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>[PROJECT NAME]</title>
+      <link>http://localhost:1313/projects/project-2/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project-2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;[DESCRIBE WHAT THIS PROJECT DOES.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;[WHY DID YOU BUILD THIS?]&lt;/p&gt;&#xA;&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[TECHNOLOGY 1]&lt;/li&gt;&#xA;&lt;li&gt;[TECHNOLOGY 2]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[FEATURE 1]&lt;/li&gt;&#xA;&lt;li&gt;[FEATURE 2]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[GitHub Repository]([REPO URL])&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

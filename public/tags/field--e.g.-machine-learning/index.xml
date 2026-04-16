@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[FIELD — E.g., Machine Learning] on YOUR NAME — Portfolio</title>
+    <link>http://localhost:1313/tags/field--e.g.-machine-learning/</link>
+    <description>Recent content in [FIELD — E.g., Machine Learning] on YOUR NAME — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/field--e.g.-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[PAPER TITLE]</title>
+      <link>http://localhost:1313/publications/paper-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/paper-1/</guid>
+      <description>&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;&#xA;&lt;p&gt;[AUTHORS]. &amp;ldquo;[PAPER TITLE].&amp;rdquo; &lt;em&gt;[JOURNAL/CONFERENCE NAME]&lt;/em&gt;, vol. [VOL], no. [NO], pp. [PAGES], [YEAR].&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;[PASTE OR WRITE THE ABSTRACT HERE.]&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[CONTRIBUTION 1]&lt;/li&gt;&#xA;&lt;li&gt;[CONTRIBUTION 2]&lt;/li&gt;&#xA;&lt;li&gt;[CONTRIBUTION 3]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Full Paper (PDF)]([PDF URL])&lt;/li&gt;&#xA;&lt;li&gt;[DOI]([DOI URL])&lt;/li&gt;&#xA;&lt;li&gt;[Presentation Slides]([SLIDES URL, if any])&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
