@@ -8,8 +8,8 @@ title: "About"
 
 ## Education
 
-- **[DEGREE — e.g., M.S. in Computer Science]**, [UNIVERSITY NAME], [YEAR START]–[YEAR END]
-- **[DEGREE — e.g., B.S. in Electrical Engineering]**, [UNIVERSITY NAME], [YEAR START]–[YEAR END]
+- **[B.S. in Electronics Enginerring]**, [Hoser University], [2013.03]–[2019.02]
+- **[Ph.D Student in Electronics Engineering]**, [Hanyang University], [2020.03]–[Current]
 
 ## Experience
 
@@ -19,14 +19,8 @@ title: "About"
 - [RESPONSIBILITY OR ACHIEVEMENT 1]
 - [RESPONSIBILITY OR ACHIEVEMENT 2]
 
-### [JOB TITLE] — [COMPANY/ORGANIZATION]
-*[YEAR START]–[YEAR END]*
-
-- [RESPONSIBILITY OR ACHIEVEMENT 1]
-- [RESPONSIBILITY OR ACHIEVEMENT 2]
-
 ## Interests
 
-- [INTEREST 1 — e.g., Artificial Intelligence]
-- [INTEREST 2 — e.g., Embedded Systems]
-- [INTEREST 3 — e.g., Data Visualization]
+- [INTEREST 1 — System Memory Testing]
+- [INTEREST 2 — Fault Simulation]
+- [INTEREST 3 — AI-based System Memory Error Analysis]
