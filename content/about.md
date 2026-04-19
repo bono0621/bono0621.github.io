@@ -8,7 +8,7 @@ title: "About"
 
 ## Education
 
-- **[B.S. in Electronics Enginerring]**, [Hoser University], [2013.03]–[2019.02]
+- **[B.S. in Electronics Enginerring]**, [Hoseo University], [2013.03]–[2019.02]
 - **[Ph.D Student in Electronics Engineering]**, [Hanyang University], [2020.03]–[Current]
 
 ## Experience
